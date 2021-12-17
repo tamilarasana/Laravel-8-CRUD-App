@@ -12,9 +12,7 @@ The repository is the code to one of my article on **Dev.to**, [Laravel 8 CRUD A
 7. Add your database config in the .env file (you can check my articles on how to achieve that)
 8. php artisan migrate
 9. php artisan serve (if the server opens up, http://127.0.0.1:8000,  then we are good to go)
-![localhost](https://res.cloudinary.com/kingsconsult/image/upload/v1600705305/laravel%208%20modal/4_pp7r76.png)
-10. Navigate to http://127.0.0.1:8000/projects
-![CRUD](https://res.cloudinary.com/kingsconsult/image/upload/v1602364575/crud_llekuf.png)
+
 
 ## Operations
 1. Create a project
